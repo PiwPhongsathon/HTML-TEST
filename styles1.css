@@ -8,7 +8,6 @@
 .container {
     max-width: 1140px;
     margin: 0 auto;
-
 }
 
 .img_zone-1 {
@@ -259,7 +258,6 @@ z-index:auto;
     line-height: 2;
     display: block;
     height: 744px;
-    /* background: rgb(241, 4, 4) */
 }
 
 .box0 {
@@ -342,11 +340,61 @@ z-index:auto;
     margin-right: 20px;
     background-color: #0CC553;
     border-radius: 20px; 
-
     margin-left: 50px;
     text-align: center;
 }
 
+.img_zone-6 {
+    line-height: 2;
+    display: block;
+    height: 367px;
+}
 
+.mapbox {
+    background: linear-gradient(230.87deg, #5D97E3 -7.19%, #0C2192 66.6%);
+    font-family: "Noto Sans Thai", sans-serif;
+    color: white;
+    height: 290px;
+    display: flex;
+    align-items: center;
+    margin: 25px;
+    border-radius: 20px;
+    line-height: 1.5;
+}
 
+.mapbox-1 p{
+    font-family: "Noto Sans Thai", sans-serif;
+    color: white;
+    font-size: 38px;
+    font-weight: 700;
+}
+.mapbox-1 p1{
+    font-family: "Noto Sans Thai", sans-serif;
+    color: white;
+    font-size: 32px;
+    
+    font-weight: 500;
+}
+.mapbtn{
+    background-color: #359EFF;
+    border-radius: 45px;
+    text-align: center;
+    align-items: center;
+    width: 344px;
+    height: 68px;
+    font-size: 30px;
+    font-weight: 700;
+}
 
+.ic_location{
+    text-align: center;
+    margin: 40px;
+    width: 81.66px;
+    height: 81.66px;
+    background: #0B0B0B;
+    border-radius: 100%;
+}
+
+.imgroom {
+ margin-left: 100px;
+}
